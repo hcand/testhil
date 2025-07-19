@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/hcand/testhil/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/test.ipynb
     - API Reference:
           - testhil module: testhil.md
           - common module: common.md
